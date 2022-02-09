@@ -1,4 +1,4 @@
-#Day 7 Assignment by Krish Sharma, email: ksysknp@gmail.com
+#Day 6 Assignment by Krish Sharma, email: ksysknp@gmail.com
 
 def mod_div(fun):
 	def deno(a, b):
