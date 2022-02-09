@@ -1,6 +1,5 @@
 #Day 7 Assignment by Krish Sharma, email: ksysknp@gmail.com
 
-
 def mod_div(fun):
 	def deno(a, b):
 		if a < b :
@@ -11,6 +10,7 @@ def mod_div(fun):
 @mod_div
 def div(a, b):
 	return  a // b
-    
-a, b = (int(i) for i in input("Enter any two Numbers: ").split())
-print ("the answer is:", div(a, b))
+
+a, b = (int(i) for i in input("Enter any two numbers: ").split())
+
+print ("The answer is:", div(a, b))
