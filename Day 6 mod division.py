@@ -1,5 +1,5 @@
 #Day 6 Assignment by Krish Sharma, email: ksysknp@gmail.com
-
+#This is recursive function
 def mod_div(fun):
 	def deno(a, b):
 		if a < b :
